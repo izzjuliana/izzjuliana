@@ -2,7 +2,7 @@
 
 Hi! I'm Juliana Prada, a rising sophomore at the University of Florida majoring in Computer Science, with a passion for using technology to create meaningful change.
 
-This summer I explored machine learning through Break Through Tech at Cornell Tech, where I built predictive models using real-world data. I’m especially excited by the intersections of AI, ethics, and social impact—particularly in areas like education, healthcare, and public policy.
+This summer I explored machine learning through Break Through Tech at Cornell Tech, where I built predictive models using real-world data. I’m especially excited by the intersections of AI, ethics, and social impact.
 
 From hackathons to communities like Rewriting the Code and Latinas in Tech, I love being in spaces where I can learn, build, and collaborate. These experiences have shaped me not only as a programmer, but also as an advocate for inclusion in tech.
 
