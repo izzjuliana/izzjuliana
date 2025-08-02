@@ -7,7 +7,7 @@ This summer I explored machine learning through Break Through Tech at Cornell Te
 From hackathons to communities like Rewriting the Code and Latinas in Tech, I love being in spaces where I can learn, build, and collaborate. These experiences have shaped me not only as a programmer, but also as an advocate for inclusion in tech.
 
 📬 **Reach me at:**
-- Email: [juliana.prada@ufl.edu](mailto:juliana.prada@ufl.edu)
+- Email: [izzyjuliana1@gmail.com](mailto:izzyjuliana1@gmail.com)
 - LinkedIn: [linkedin.com/in/julianapradaq](https://www.linkedin.com/in/julianapradaq/)
 - GitHub: [@izzjuliana](https://github.com/izzjuliana)
 
