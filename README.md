@@ -27,8 +27,8 @@ From hackathons to communities like Rewriting the Code and Latinas in Tech, I lo
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Kudos (FidHacks25)](https://github.com/izzjuliana/kudos) | Built a React-based app fostering support for women in tech; real-time goal sharing via Firebase | React, Firebase |
-| [Airbnb Superhost Predictor](https://github.com/izzjuliana/airbnb-superhost-predictor) | Trained ML models (Decision Tree, KNN) on NYC Airbnb data to classify Superhosts with 83% accuracy | Python, scikit-learn, Pandas |
+| [Kudos (FidHacks25)]([https://github.com/izzjuliana/kudos](https://github.com/calebyhan/fidhacks25)) | Built a React-based app fostering support for women in tech; real-time goal sharing via Firebase | React, Firebase |
+| [Airbnb Superhost Predictor] | Trained ML models (Decision Tree, KNN) on NYC Airbnb data to classify Superhosts with 83% accuracy | Python, scikit-learn, Pandas |
 | [ONE CHANCE](https://github.com/izzjuliana/onechance) | Website raising awareness about Latin American social issues | HTML, CSS, JavaScript |
 
 ---
@@ -36,8 +36,6 @@ From hackathons to communities like Rewriting the Code and Latinas in Tech, I lo
 ## 📌 GitHub Highlights
 
 - Experience with real-world ML models and ethical tech applications  
-- Contributions to open source, academic, and personal projects  
-- Collaboration using Git, GitHub Projects, and version control best practices
 
 ---
 
