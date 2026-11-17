@@ -23,22 +23,8 @@ From hackathons to communities like Rewriting the Code and Latinas in Tech, I lo
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Kudos (FidHacks25)](https://github.com/calebyhan/fidhacks25) | Built a React-based app fostering support for women in tech; enabled real-time goal sharing via Firebase groups (“clouds”) | React, Firebase |
-| Airbnb Superhost Predictor | Trained ML models (Decision Tree, KNN) on NYC Airbnb data to classify Superhosts with 83% accuracy | Python, scikit-learn, Pandas |
-| [ONE CHANCE](https://github.com/izzjuliana/onechance) | Website raising awareness about Latin American social issues | HTML, CSS, JavaScript |
 
 
----
-
-## 📌 GitHub Highlights
-
-- Experience with real-world ML models and ethical tech applications  
-
----
 
 ## 🤝 Connect with Me
 
